@@ -37,5 +37,59 @@ idolizes the gigachads from 90s that wrote Unix and Linux)
 
 ### Configs We Installed in Linux
 
-1. 
+#### 1. `bspwm`
+This is the piece of software that provides you with the required environment 
+to open any application. Think of this as the base. Technically, we call it 
+"window manager" as any application we launch is launched as a "window" and 
+this program manages it.
 
+> CONFIGURATION FOUND AT ~/.config/bspwm/bspwmrc
+
+#### 2. `sxhkd` 
+This is a helper program for `bspwm`. In-order to trigger different actions 
+like 
+- Opening a window (say terminal)
+- Closing a window
+- Toggling in and out of full-screen
+
+All these events are triggered using short-cut keys. `sxhkd` is your config 
+file which contains a list of all the short-cut keys and their associated 
+actions.
+
+> CONFIGURATION FOUND AT ~/.config/sxhkd/sxhkdrc
+
+#### 3. `alacritty`
+We all need a terminal to operate with. There are many different terminals:
+- alacritty
+- st (suckless terminal)
+- kitty
+- ghostty
+- xterm
+- starship
+- warp
+
+> We all need that blazingly fast terminal, with quality-of-life features, 
+crazy performance and coconut-oily smooth experience. That's alacritty folks.
+
+> CONFIGURATION FOUND AT ~/.config/alacritty/alacritty.toml
+
+#### 4. `picom`
+to any of the components of your system. It's just to make things look 
+cool. There is no real utility here. (all beautiful things are inefficient)
+
+> CONFIGURATION FOUND AT ~/.config/rofi/config.rasi
+
+#### 5. `polybar`
+Your top-bar for getting system stats. That's it.
+
+> CONFIGURATION FOUND AT ~/.config/polybar/config.ini
+
+#### 6. `rofi`
+The launcher for all your applications. 
+
+> CONFIGURATION FOUND AT ~/.config/rofi/config.rasi
+---
+
+> [!TIP]
+> All the above tools are full configurable to your liking. Tinker around 
+and find out.
