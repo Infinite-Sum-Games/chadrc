@@ -68,7 +68,7 @@ We all need a terminal to operate with. There are many different terminals:
 - starship
 - warp
 
-> We all need that blazingly fast terminal, with quality-of-life features, 
+We all need that blazingly fast terminal, with quality-of-life features, 
 crazy performance and coconut-oily smooth experience. That's alacritty folks.
 
 > CONFIGURATION FOUND AT ~/.config/alacritty/alacritty.toml
@@ -77,7 +77,7 @@ crazy performance and coconut-oily smooth experience. That's alacritty folks.
 to any of the components of your system. It's just to make things look 
 cool. There is no real utility here. (all beautiful things are inefficient)
 
-> CONFIGURATION FOUND AT ~/.config/rofi/config.rasi
+> CONFIGURATION FOUND AT ~/.config/picom/picom.conf
 
 #### 5. `polybar`
 Your top-bar for getting system stats. That's it.
