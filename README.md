@@ -6,7 +6,7 @@ Resource containers for the chads at Infinite Sum Games
 Common linux commands which are a must use one a day to day basis
 0. `cd` - get your ass into that directory
 1. `ls` - get your list of files and folders cuz u too dumb to remember them
-2. `mkdir` - Create another directory, yep, cuz that's all your ugly ass knows
+2. `mkdir` - Create another directory, yep, cuz that's all your ugly ass knows in the name of linux
 3. `touch` - Creating files only, don't get the wrong idea :)
 4. `rm` - Remove your stupid files and trash-can directories
 5. `cp` - Copy pasta programmer
@@ -74,8 +74,10 @@ crazy performance and coconut-oily smooth experience. That's alacritty folks.
 > CONFIGURATION FOUND AT ~/.config/alacritty/alacritty.toml
 
 #### 4. `picom`
-to any of the components of your system. It's just to make things look 
-cool. There is no real utility here. (all beautiful things are inefficient)
+ Add transparency and blur effects to any of the components of your system. 
+It's just to make things look cool. There is no real utility here. It also 
+consumes little bit of RAM. Not advisable for 8GB RAM systems.
+ (all beautiful things are inefficient)
 
 > CONFIGURATION FOUND AT ~/.config/picom/picom.conf
 
