@@ -82,7 +82,12 @@ consumes little bit of RAM. Not advisable for 8GB RAM systems.
 > CONFIGURATION FOUND AT ~/.config/picom/picom.conf
 
 #### 5. `polybar`
-Your top-bar for getting system stats. That's it.
+Your top-bar for getting system stats. There are too many default configs 
+which can be commented out because the program itself is a bit resource 
+intensive. In-case you wish to switch to something simple there is always 
+`i3bar` which comes as a separate package. Additionally, there are too many 
+unixporn configs where you see people using multiple polybar setup. This is 
+aesthetically pleasing but bleeds out RAM as each bar renders separately.
 
 > CONFIGURATION FOUND AT ~/.config/polybar/config.ini
 
