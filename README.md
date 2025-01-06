@@ -37,6 +37,8 @@ idolizes the gigachads from 90s that wrote Unix and Linux)
 
 ### Configs We Installed in Linux
 
+All configs can be found [ here ](https://github.com/IAmRiteshKoushik/dotfiles)
+
 #### 1. `bspwm`
 This is the piece of software that provides you with the required environment 
 to open any application. Think of this as the base. Technically, we call it 
@@ -76,7 +78,6 @@ crazy performance and coconut-oily smooth experience. That's alacritty folks.
 #### 4. `picom`
  Add transparency and blur effects to any of the components of your system. 
 It's just to make things look cool. There is no real utility here. It also 
-consumes little bit of RAM. Not advisable for 8GB RAM systems.
  (all beautiful things are inefficient)
 
 > CONFIGURATION FOUND AT ~/.config/picom/picom.conf
@@ -100,3 +101,9 @@ The launcher for all your applications.
 > [!TIP]
 > All the above tools are full configurable to your liking. Tinker around 
 and find out.
+
+> [!INFO]
+> A lot of these configurations are written with simplicity and lesser 
+RAM consumption in mind. For all the `ricers` out there would wish to 
+spend 20% or more of your RAM to render a bunch of cool-widgets, this is 
+not for you.
