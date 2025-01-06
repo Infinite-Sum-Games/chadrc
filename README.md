@@ -102,8 +102,26 @@ The launcher for all your applications.
 > All the above tools are full configurable to your liking. Tinker around 
 and find out.
 
+## An Anecdote by Ritesh Koushik
 > [!INFO]
 > A lot of these configurations are written with simplicity and lesser 
 RAM consumption in mind. For all the `ricers` out there would wish to 
-spend 20% or more of your RAM to render a bunch of cool-widgets, this is 
-not for you.
+spend 15-20% or more of your RAM to render a bunch of cool-widgets, this is 
+not for you. 
+> Quite a lot of these opinions have formed over a period of 2 years where 
+I was using a resource constrained system with 6GB RAM and 30 mins of battery 
+backup. There might be overkills.
+> This configuration is for users who run heavy applications locally. Be it 
+Kubernetes cluters, multiple docker containers, simulators, android emulators 
+or even heavy JetBrains IDEs (instead of vim/emacs)
+
+A few lines to sum-it-up all:
+> 1. Sane defaults over mindless customizations. 
+2. Simple is better than "clever".
+3. High performance simple components over aesthetic components with piss-poor 
+performance. 
+4. Sustainability gets work done. Attraction invites alteration. True for 
+colors, themes and perhaps people too.
+5. If you have taken the time to learn the painful shortcuts of vim, chances 
+are that you will be a pretty successful programmer owing to your ability to 
+devote time and effort.
