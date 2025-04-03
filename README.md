@@ -33,7 +33,7 @@ to hell)
 24. `man` - Manual pages ... GPT-kids weak generation, can't handle the chadness of 
 these pages. You gotta be a `NeoChad` (the modern-day chad developer who 
 idolizes the gigachads from 90s that wrote Unix and Linux)
-25. `cal` - Calendar (find your "that time of the month LOL")
+25. `cal` - Calendar
 
 ### Configs We Installed in Linux
 
@@ -103,7 +103,6 @@ The launcher for all your applications.
 and find out.
 
 ## An Anecdote by Ritesh Koushik
-> [!INFO]
 > A lot of these configurations are written with simplicity and lesser 
 RAM consumption in mind. For all the `ricers` out there would wish to 
 spend 15-20% or more of your RAM to render a bunch of cool-widgets, this is 
@@ -116,7 +115,7 @@ Kubernetes cluters, multiple docker containers, simulators, android emulators
 or even heavy JetBrains IDEs (instead of vim/emacs)
 
 A few lines to sum-it-up all:
-> 1. Sane defaults over mindless customizations. 
+1. Sane defaults over mindless customizations. 
 2. Simple is better than "clever".
 3. High performance simple components over aesthetic components with piss-poor 
 performance. 
